@@ -1,0 +1,38 @@
+
+
+> @patrickjmcd/ui@0.0.0 build /Users/patrickjmcd/Developer/github/patrickjmcd/ui/packages/ui
+> tsup
+
+[34mCLI[39m Building entry: src/components/Navbar/index.tsx, src/components/Section/index.tsx, src/components/VerticalChecklist/index.tsx
+[34mCLI[39m Using tsconfig: tsconfig.json
+[34mCLI[39m tsup v8.2.4
+[34mCLI[39m Using tsup config: /Users/patrickjmcd/Developer/github/patrickjmcd/ui/packages/ui/tsup.config.ts
+[34mCLI[39m Target: es6
+[34mCJS[39m Build start
+[34mESM[39m Build start
+[34mDTS[39m Build start
+[32mESM[39m [1mdist/chunk-EBX6FPJB.mjs              [22m[32m3.49 KB[39m
+[32mESM[39m [1mdist/Section/index.mjs               [22m[32m1.80 KB[39m
+[32mESM[39m [1mdist/VerticalChecklist/index.mjs     [22m[32m1.99 KB[39m
+[32mESM[39m [1mdist/Navbar/index.mjs                [22m[32m1.33 MB[39m
+[32mESM[39m [1mdist/Section/index.mjs.map           [22m[32m2.85 KB[39m
+[32mESM[39m [1mdist/VerticalChecklist/index.mjs.map [22m[32m3.54 KB[39m
+[32mESM[39m [1mdist/chunk-EBX6FPJB.mjs.map          [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/Navbar/index.mjs.map            [22m[32m1.88 MB[39m
+[32mESM[39m ⚡️ Build success in 437ms
+[32mCJS[39m [1mdist/Section/index.js               [22m[32m2.08 KB[39m
+[32mCJS[39m [1mdist/chunk-GFD5IHHL.js              [22m[32m3.68 KB[39m
+[32mCJS[39m [1mdist/VerticalChecklist/index.js     [22m[32m2.18 KB[39m
+[32mCJS[39m [1mdist/Navbar/index.js                [22m[32m1.33 MB[39m
+[32mCJS[39m [1mdist/chunk-GFD5IHHL.js.map          [22m[32m4.50 KB[39m
+[32mCJS[39m [1mdist/Section/index.js.map           [22m[32m2.89 KB[39m
+[32mCJS[39m [1mdist/VerticalChecklist/index.js.map [22m[32m4.33 KB[39m
+[32mCJS[39m [1mdist/Navbar/index.js.map            [22m[32m1.58 MB[39m
+[32mCJS[39m ⚡️ Build success in 440ms
+[32mDTS[39m ⚡️ Build success in 966ms
+[32mDTS[39m [1mdist/Navbar/index.d.ts             [22m[32m383.00 B[39m
+[32mDTS[39m [1mdist/Section/index.d.ts            [22m[32m520.00 B[39m
+[32mDTS[39m [1mdist/VerticalChecklist/index.d.ts  [22m[32m564.00 B[39m
+[32mDTS[39m [1mdist/Navbar/index.d.mts            [22m[32m383.00 B[39m
+[32mDTS[39m [1mdist/Section/index.d.mts           [22m[32m520.00 B[39m
+[32mDTS[39m [1mdist/VerticalChecklist/index.d.mts [22m[32m564.00 B[39m

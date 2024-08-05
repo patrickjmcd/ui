@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "esnext",
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "jsx": "react",
+    "sourceMap": true,
+    "outDir": "dist",
+    "strict": true,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "paths": {
+      "@ui/*": [
+        "packages/ui/src/*"
+      ],
+      "@patrickjmcd/ui": [
+        "packages/ui/src"
+      ]
+    },
+    "baseUrl": "."
+  }
+}

@@ -1,0 +1,21 @@
+import { Canvas, Controls, Meta } from "@storybook/blocks";
+import * as SectionStories from "./Section.stories";
+
+<Meta of={SectionStories} />
+
+# SectionFilterPanel
+
+The release calendar component shows a calendar of upcoming releases.
+
+## Default Appearance (Not Collapsible)
+
+<Canvas of={SectionStories.Default} />
+
+## Collapsible Appearance
+
+<Canvas of={SectionStories.Collapsible} />
+
+
+## Props
+
+<Controls />
