@@ -14,11 +14,8 @@
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "paths": {
-      "@ui/*": [
-        "packages/ui/src/*"
-      ],
-      "@patrickjmcd/ui": [
-        "packages/ui/src"
+      "@/*": [
+        "src/*"
       ]
     },
     "baseUrl": "."
