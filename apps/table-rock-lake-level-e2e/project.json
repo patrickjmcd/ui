@@ -1,0 +1,9 @@
+{
+  "name": "table-rock-lake-level-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/table-rock-lake-level-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["table-rock-lake-level"],
+  "// targets": "to see all targets run: nx show project table-rock-lake-level-e2e --web",
+  "targets": {}
+}

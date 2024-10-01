@@ -1,0 +1,9 @@
+{
+  "name": "photo-booth-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/photo-booth-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["photo-booth"],
+  "// targets": "to see all targets run: nx show project photo-booth-e2e --web",
+  "targets": {}
+}

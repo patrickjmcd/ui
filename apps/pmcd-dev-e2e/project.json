@@ -1,0 +1,9 @@
+{
+  "name": "pmcd-dev-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/pmcd-dev-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["pmcd-dev"],
+  "// targets": "to see all targets run: nx show project pmcd-dev-e2e --web",
+  "targets": {}
+}
